@@ -16,5 +16,15 @@ git config --global user.email *ot@baldy.ru*
 2. Войти в папку `cd *имя папки*`
 3. `git init`
 * разгитить: `rm -rf .git`
-* проверить: `git status`
+* проверить: `git status`   
+4. `git add --all` или `git add *file*`
+ 
+====
+                        ## commit  
+====
+`git commit -m *описание_изменений_без_пробелов_или_в_кавычках*`
+
+посмотреть историю: `git log`
+
+
 
